@@ -31,7 +31,7 @@ An AI-powered assistive vision system designed to help visually impaired individ
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/danyl-dnl/see-through.git
 cd vision-scribe
 ```
 
